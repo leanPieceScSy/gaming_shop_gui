@@ -9,4 +9,4 @@ An c# template for a gaming shop with framework 4.7.2
 
 > Don't kill you ! 😁
 
-> Start all my projects and your mom will kill yoi ! 
+> Start all my projects and your mom will kiss you ! 
