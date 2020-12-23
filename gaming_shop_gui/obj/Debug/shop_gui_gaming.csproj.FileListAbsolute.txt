@@ -1,0 +1,10 @@
+D:\shop gui\bin\Debug\shop gui.exe.config
+D:\shop gui\bin\Debug\shop gui.exe
+D:\shop gui\bin\Debug\shop gui.pdb
+D:\shop gui\obj\Debug\shop_gui_gaming.csprojAssemblyReference.cache
+D:\shop gui\obj\Debug\shop_gui.shop_gui.resources
+D:\shop gui\obj\Debug\shop_gui.Properties.Resources.resources
+D:\shop gui\obj\Debug\shop_gui_gaming.csproj.GenerateResource.cache
+D:\shop gui\obj\Debug\shop_gui_gaming.csproj.CoreCompileInputs.cache
+D:\shop gui\obj\Debug\shop gui.exe
+D:\shop gui\obj\Debug\shop gui.pdb
